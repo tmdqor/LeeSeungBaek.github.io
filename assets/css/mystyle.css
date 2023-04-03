@@ -4,3 +4,11 @@
     font-size: 16pt;
     font-weight: bold;
 }
+
+.portfolio-links > p:nth-child(5) { /* 프로젝트 기간 */
+    height: 25px;
+}
+
+.portfolio-links > p:nth-child(7) { /* 기술 스택 */
+    height: 70px;
+}
